@@ -1,1 +1,1 @@
-//ALERT('test');
+//alert('test');
